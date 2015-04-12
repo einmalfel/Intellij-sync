@@ -26,6 +26,11 @@
         <option value="$USER_HOME$/AI_course/multiagent" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AI_course/multiagent" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/AI_course/multiagent" />
   </component>
   <component name="Registry">
