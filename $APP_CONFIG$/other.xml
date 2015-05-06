@@ -20,12 +20,32 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/python3_sudo" value="false" />
+        <entry key="/usr/bin/python3.4" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/python3_sudo" value="false" />
+        <entry key="/usr/bin/python3.4" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="$USER_HOME$/python3_sudo" value="false" />
+        <entry key="/usr/bin/python3.4" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dhcpester" />
-        <option value="$USER_HOME$/dhquery-read-only" />
         <option value="$USER_HOME$/DHCPTest-python" />
+        <option value="$USER_HOME$/dhquery-read-only" />
         <option value="$USER_HOME$/AI_course/multiagent" />
       </list>
     </option>
