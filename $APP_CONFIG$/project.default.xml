@@ -20,13 +20,9 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="DaemonCodeAnalyzer">
-        <disable_hints />
+      <component name="NamedScopeManager">
+        <order />
       </component>
-      <component name="DependencyValidationManager">
-        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
-      </component>
-      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -40,13 +36,12 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
-        <list size="0" />
         <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
           <option name="HTML_FILE_NAME" />
