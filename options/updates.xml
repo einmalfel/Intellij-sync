@@ -13,13 +13,16 @@
     <enabledExternalComponentSources>
       <item value="Android SDK" />
     </enabledExternalComponentSources>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
     <option name="externalUpdateChannels">
       <map>
-        <entry key="Android SDK" value="Preview Channel" />
+        <entry key="Android SDK" value="Stable Channel" />
       </map>
     </option>
     <option name="LAST_TIME_CHECKED" value="1440179574760" />
     <option name="LAST_BUILD_CHECKED" value="AI-141.2135290" />
-    <option name="UPDATE_CHANNEL_TYPE" value="beta" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
 </application>
