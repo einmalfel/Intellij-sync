@@ -2,11 +2,32 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift control G" />
   </action>
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateBuildVariantsToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt V" />
+  </action>
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="shift control alt E" />
+  </action>
+  <action id="ActivateGradleConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt G" />
+  </action>
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="shift control alt G" />
+  </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="control alt LEFT" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt LEFT" />
   </action>
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="shift control alt B" />
+  </action>
+  <action id="DumpLookupElementWeights" />
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift control G" />
   </action>
@@ -34,10 +55,20 @@
     <keyboard-shortcut first-keystroke="shift control LEFT" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt F8" />
+    <keyboard-shortcut first-keystroke="control alt 8" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="control alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="control alt B" />
   </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift alt RIGHT" />
@@ -52,9 +83,35 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift control TAB" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="control alt F8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="RemoveFromFavorites" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="control alt 7" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift control alt W" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
   <action id="Switcher" />
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
