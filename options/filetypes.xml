@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="avc" type="ARCHIVE" />
+      <mapping ext="aar" type="ARCHIVE" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping pattern="proguard-rules" type="ProGuard File" />
     </extensionMap>
   </component>
