@@ -18,5 +18,7 @@
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="selected.color.option.type" value="LOGCAT_ASSERT_OUTPUT" />
+    <property name="ColorChooser.RecentColors" value="255-187-187-255,,,238-187-187-255,,,221-187-187-255,,,136-136-136-255,,,170-170-170-255" />
   </component>
 </application>

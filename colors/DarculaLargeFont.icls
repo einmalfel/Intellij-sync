@@ -3,4 +3,42 @@
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ddbbbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
