@@ -20,5 +20,6 @@
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
     <property name="selected.color.option.type" value="LOGCAT_ASSERT_OUTPUT" />
     <property name="ColorChooser.RecentColors" value="255-187-187-255,,,238-187-187-255,,,221-187-187-255,,,136-136-136-255,,,170-170-170-255" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
   </component>
 </application>
