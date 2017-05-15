@@ -2,8 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="gr.class.super" />
-        <option value="gr.script.class" />
         <option value="gr.annot.members" />
         <option value="gr.annot.method.name" />
         <option value="gr.method.name" />
@@ -13,7 +11,7 @@
         <option value="properties.index" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="java.unit.tree" />
+        <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
         <option value="java.method.parameter.types" />
@@ -25,6 +23,8 @@
         <option value="java.class.extlist" />
         <option value="java.annotations" />
         <option value="gr.anonymous.class" />
+        <option value="gr.class.super" />
+        <option value="gr.script.class" />
       </list>
     </option>
   </component>
