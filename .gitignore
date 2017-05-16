@@ -3,3 +3,8 @@
 /sonarlint/
 /options/code.style.schemes.xml
 /options/extensionsRootType.xml
+/options/stubIndex.xml
+/options/usage.statistics.xml
+/options/debugger.xml
+/options/project.default.xml
+
