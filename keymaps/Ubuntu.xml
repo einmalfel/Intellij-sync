@@ -25,11 +25,15 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt a" second-keystroke="ctrl alt a" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangesView.AddUnversioned" />
   <action id="ConvertIndentsToSpaces">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
