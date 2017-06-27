@@ -1,2 +1,6 @@
+CVS
+Subversion
+com.intellij.copyright
+hg4idea
 cucumber-groovy
 org.intellij.grails
