@@ -1,0 +1,54 @@
+<scheme name="DarculaQHD" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-08-20T15:04:16</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.0.0.10</property>
+    <property name="modified">2017-08-20T15:05:11</property>
+    <property name="originalScheme">DarculaLargeFont copy</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="0.8" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="888888" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ddbbbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
