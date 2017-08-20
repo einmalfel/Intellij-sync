@@ -13,14 +13,23 @@
   </action>
   <action id="ActivateGradleConsoleToolWindow">
     <keyboard-shortcut first-keystroke="shift alt g" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
+  <action id="Android.BuildApk">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f9" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="a" />
+  </action>
   <action id="Android.EnableDdms">
     <keyboard-shortcut first-keystroke="shift ctrl alt close_bracket" />
+  </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="s" />
   </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
@@ -82,6 +91,9 @@
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="t" />
   </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift alt right" />
