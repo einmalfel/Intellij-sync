@@ -16,7 +16,6 @@
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
   <action id="ActivateGradleToolWindow">
-    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
   <action id="ActivateStructureToolWindow" />
@@ -78,6 +77,9 @@
   </action>
   <action id="EditorPreviousWordWithSelection" />
   <action id="EditorScrollToCenter" />
+  <action id="EditorToggleShowGutterIcons">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" second-keystroke="shift ctrl alt g" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
