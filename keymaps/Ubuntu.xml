@@ -21,6 +21,9 @@
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
+  <action id="ActivateReviewsToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="Android.BuildApk">
@@ -95,11 +98,23 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="t" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt tab" />
   </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -141,6 +156,33 @@
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="Switch To Last Tab">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+  </action>
+  <action id="Switch To Tab #1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="Switch To Tab #2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="Switch To Tab #3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="Switch To Tab #4">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="Switch To Tab #5">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
+  <action id="Switch To Tab #6">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+  </action>
+  <action id="Switch To Tab #7">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+  </action>
+  <action id="Switch To Tab #8">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
